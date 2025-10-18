@@ -204,7 +204,7 @@ MIT License - see LICENSE file for details
 
 ## Acknowledgments
 
-- Built on [jetkvm_client](https://github.com/nilp0inter/jetkvm_client) by nilp0inter
+- Built on [jetkvm_client](https://github.com/nilp0inter/jetkvm_client) by @davehorner and @nilp0inter
 - Uses [rmcp](https://github.com/modelcontextprotocol/rust-sdk) - official Rust MCP SDK
 - Inspired by the Model Context Protocol specification
 
